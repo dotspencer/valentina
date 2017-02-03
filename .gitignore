@@ -12,4 +12,7 @@ build
 # misc
 .DS_Store
 .env
+.yarnclean
 npm-debug.log
+yarn-error.log
+*.rdb
